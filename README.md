@@ -25,7 +25,7 @@ Usage:
 ## [fisherman](https://github.com/fisherman/fisherman) (recommended)
 
 ```
-fisher joehillen/to-fish
+fisher add joehillen/to-fish
 ```
 
 ## [fundle](https://github.com/tuvistavie/fundle)
